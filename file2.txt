@@ -1,3 +1,7 @@
 Iglika Borisova Doundakova
 Stefan Borisov Doundakov
+<<<<<<< HEAD
 Boris Stefanov Dundakov
+=======
+Petrushka Ilieva Dundakova
+>>>>>>> master

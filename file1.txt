@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 stuff
+=======
+other stuff
+>>>>>>> the_branch
